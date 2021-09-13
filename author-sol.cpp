@@ -42,7 +42,7 @@ int main() {
 				cnt += 1;
 			}
 		}
-		// in order for Nayeon wins, then the largest zero-segment ('first_max') must be
+		// in order for Nayeon to win, then the largest zero-segment ('first_max') must be
 		// an odd number and the second largest zero-segment ('second_max') should be
 		// smaller than the number of free cells of Nayeon in the largest zero-segment ('first_max')
 		// let l = largest zero-segment (must be odd as well)
